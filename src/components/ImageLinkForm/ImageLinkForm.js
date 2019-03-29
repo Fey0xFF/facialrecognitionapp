@@ -5,7 +5,7 @@ const ImageLinkForm = ({ onInputChange, onButtonSubmit }) => {
 	return (
 		<div>
 			<p className="f3">
-				{'lorem ipsum'}
+				{'Enter path to face image!'}
 			</p>
 			<div className="center">
 				<div className="form center pa4 br3 shadow-5">
